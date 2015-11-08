@@ -7,3 +7,6 @@ Close, Minimize, Toggle window buttons on LXPanel
 
 #### Hide gtk2-menu in apps
 Alt+M, Ctrl+M - to show\hide menu in gtk2-applications
+
+## Dependencies
+You need to install `xdotool` and `wmctrl` packages

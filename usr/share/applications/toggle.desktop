@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+# Exec=xdotool getactivewindow windowmove 200 100 windowsize 966 568
+Exec=wmctrl -r :ACTIVE: -b toggle,maximized_vert,maximized_horz && xdotool getactivewindow windowmove 200 100 windowsize 966 568
+Icon=/usr/share/custom-buttons/toggle.svg
+Terminal=false
+Name=toggle
+Icon=/usr/share/custom-buttons/toggle.svg
+Categories=System;

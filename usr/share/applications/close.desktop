@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=close
+# Exec=xdotool key alt+F4
+Exec=wmctrl -c :ACTIVE:
+Icon=/usr/share/custom-buttons/close.svg
+Terminal=false
+Categories=System;

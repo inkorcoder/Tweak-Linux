@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=xdotool getactivewindow windowminimize
+Icon=/usr/share/custom-buttons/minimize.svg
+Terminal=false
+Name=minimize
+Icon=/usr/share/custom-buttons/minimize.svg
+Categories=System;
